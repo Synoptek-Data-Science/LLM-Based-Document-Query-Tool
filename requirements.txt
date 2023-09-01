@@ -3,3 +3,11 @@ openai
 PyPDF2
 faiss-cpu
 tiktoken
+torch
+transformers
+sentence-transformers
+python-dotenv
+streamlit
+streamlit_chat
+pdfminer
+pdfminer.six
